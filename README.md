@@ -10,9 +10,6 @@
 - 🔭 I’m currently working on video encoding .
 - 🌱 I’m currently learning computer science.
 - 👯 I’m looking to collaborate on android application
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Exo player
-- 📫 How to reach me: ...
-- 😄 Pronouns: machinegunjoe
+- 😄 Pronouns: space
 - ⚡ Fun fact: To the guy who invented zero, thanks for nothing.
 
