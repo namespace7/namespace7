@@ -7,9 +7,8 @@
 
 
 
-- 🔭 I’m currently working on video encoding .
+- 🔭 I’m currently working on video encoding.
 - 🌱 I’m currently learning computer science.
 - 👯 I’m looking to collaborate on android application
-- 😄 Pronouns: space
 - ⚡ Fun fact: To the guy who invented zero, thanks for nothing.
 
