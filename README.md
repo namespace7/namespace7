@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on Android Application.
+- 🔭 I’m currently working on Web Application.
 - 🌱 I’m currently learning computer science.
 
 
